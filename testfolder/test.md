@@ -6,6 +6,6 @@ Link to another page in the same folder:  [Markdown Cheatsheat](markdown-cheatsh
 
 Link to another page in another folder: [Home](../README.md)
 
-Embed a png.  ![Jack Sparrow](Best-Expression-ever-captain-jack-sparrow-27863273-440-441.jpg "Best Expression Ever")
+Embed a png.  ![quote](Aristotle-quote.PNG "Aristotle didn't say this, but he gets credit anyway")
 
 Embed a jpg.  ![Telephony Alphabet](Alfabeto.jpg)
