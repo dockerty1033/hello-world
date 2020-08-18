@@ -12,6 +12,6 @@ Autolink <https://github.com/dockerty1033/hello-world>
 Link with markdown inside link text
 - looks like italic or bold work, but not headings
 
-[_Let me Google that for you_](lmgtfy.com)  
-[__Let me Google that for you__](lmgtfy.com)  
-[## Let me Google that for you](lmgtfy.com)  
+[_Let me Google that for you_](lmgtfy.com)
+[__Let me Google that for you__](lmgtfy.com)
+[## Let me Google that for you](lmgtfy.com)
