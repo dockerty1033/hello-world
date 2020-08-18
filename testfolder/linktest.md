@@ -18,4 +18,7 @@ Link with markdown inside link text
 [## Let me Google that for you](lmgtfy.com)\
 
 What about a link on a header line?
-# Test header [search](duckduckgo.com)
+### Test header [search](duckduckgo.com)
+### [search2](lmgtfy.com)
+
+What about a link to a section? [Top](test-of-links-in-markdown)
