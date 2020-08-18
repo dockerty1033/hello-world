@@ -21,4 +21,4 @@ What about a link on a header line?
 ### Test header [search](duckduckgo.com)
 ### [search2](lmgtfy.com)
 
-What about a link to a section? [Top](test-of-links-in-markdown)
+What about a link to a section? [Top](linktest.md#test-of-links-in-markdown)
