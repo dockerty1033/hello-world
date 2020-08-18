@@ -9,4 +9,4 @@ Link with spaces in url [link to "test md with spaces"](<test md with spaces.md>
 
 Autolink <https://github.com/dockerty1033/hello-world>
 
-Link with markdown inside link text [##Let me Google that for you](lmgtfy.com)
+Link with markdown inside link text [__Let me Google that for you__](lmgtfy.com)
